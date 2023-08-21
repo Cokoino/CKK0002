@@ -1,19 +1,13 @@
-/*
- * # SKK002
- * CKK002 kit tutorial
- * This code applies to cokoino bear car.
- * You can download the assembly and use tutorial with this link:
- * http://www.mediafire.com/file/0k5vw8lfa38h0ix/CKK0002-tutorials.rar/file
- * https://drive.google.com/open?id=1YCZcAMlhl5AtXDh1wVdK-YQNv2m_pgtb
- * Company web site:
- * http://cokoino.com/
- *
- *
- *
- *
- *
- *
- *
- *
- *
- */
+# CKK002
+# Contact us:
+- Email: cokoino@outlook.com
+- Company website address：http://cokoino.com/
+- Facebook：https://www.facebook.com/cokoino.lk
+
+# Technical support
+- Email: cokoino@outlook.com
+
+# Download
+- Click the "Code" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open with GitHub Desktop" button, it will lead you to install Github software.
+- ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
+- ! Do not move, delete or rename files in the folder just unzipped.
