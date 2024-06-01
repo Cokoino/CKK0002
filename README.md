@@ -5,7 +5,7 @@
 - You will get a "CKK0002-master"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
-![Image text](https://github.com/Cokoino/Image/blob/227b0398220901956dc82d832252ee17549af28f/CKK0002.png)
+![Image text](https://github.com/Cokoino/Image/blob/main/CKK0002.png)
 # CKK002
 Cokoino 2WD smart robot car for Arduino
 # Contact us:
